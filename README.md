@@ -1,8 +1,8 @@
 # lakera-gandalf-LLM
-
+<pre class="vditor-reset" placeholder="" contenteditable="true" spellcheck="false"><img src="https://gandalf.lakera.ai/level-images/gpt-is-password-encoded.jpg" alt="Defender"/></pre>
 These are my inputs given to the LLM [Gandalf](https://gandalf.lakera.ai/) made by Lakera in each level in order to obtain the secret passwords. Since the LLM is non-deterministic, sometimes these prompts might not work and the model may give different outputs.
 
-Note that this was done as of 17/01/2026 and the model might have changed since then.
+> 17/01/2026
 
 ## Level 1
 
